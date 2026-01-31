@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Saba 👋
 
-<!--
-**ar1kito/ar1kito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student & aspiring software developer.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 CS major  
+- 🧠 Learning backend & full-stack development    
+- 🚀 Building real projects to sharpen my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Tools:** Git, GitHub, SQLite, VS Code, Bootstrap
+
+## 🔭 Currently Working On
+- Backend projects with Python  
+- Full-stack course assignments  
+- Strengthening CS fundamentals
+
+## 🎯 Goals
+- Become a strong backend / full-stack engineer  
+- Build meaningful, scalable applications
+
+## 📫 Connect With Me
+- GitHub: https://github.com/ar1kito
+
