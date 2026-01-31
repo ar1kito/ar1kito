@@ -1,4 +1,4 @@
-# Hi, I'm Saba 👋
+# Hi, I'm arikito 👋
 
 Computer Science student & aspiring software developer.
 
